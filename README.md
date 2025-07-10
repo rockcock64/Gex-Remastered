@@ -1,7 +1,7 @@
 # Gex-Remastered
 A mod for Oblivion Remastered that adds a Gex follower to the game.
 
-This mod only works in Oblivion Remastered version 1.1, it will crash if you use version 1.0. Make sure you are updated.
+There is a version of this mod for Oblivion Remastered 1.1 and another for 1.2. Make sure you are using the correct version for your game. If you use the wrong version then your game will crash. If you use Oblivion Remastered 1.0 then your game will crash.
 
 YOU NEED TesSyncMapInjector installed for this to work. Get TesSyncMapInjector here:
 
